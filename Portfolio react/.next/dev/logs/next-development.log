@@ -1,0 +1,9 @@
+[00:00:00.836] Server  LOG      ✓ Ready in 602ms
+[00:00:05.348] Server  WARN    Do not add <script> tags using next/head (see <script> tag with src="https://cdn.tailwindcss.com"). Use next/script instead. 
+See more info here: https://nextjs.org/docs/messages/no-script-tags-in-head-component
+[00:00:05.348] Server  WARN    Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
+[00:00:06.077] Browser WARN    Do not add <script> tags using next/head (see <script> tag with src="https://cdn.tailwindcss.com"). Use next/script instead. 
+See more info here: https://nextjs.org/docs/messages/no-script-tags-in-head-component
+[00:00:06.077] Browser WARN    Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
